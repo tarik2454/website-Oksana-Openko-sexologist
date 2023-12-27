@@ -1,30 +1,18 @@
-<div>
-  <a style="display: flex; justify-content: center; align-items: center; gap: 15px" href="https://tarik2454.github.io/website-Oksana-Openko-sexologist/" target="_blank">
-  <img style="margin-top: 12px" src="./public/favicon.ico" width="30" height="30" alt="Logo" />
-  <h1>Oksana Openko</h1>
-  </a>
-</div>
+# <div align="center">Oksana Openko sexologist</div>
 
-<!-- # <div style="display: flex; ustify-content: center; align-items: center; gap: 15px"><img src="./public/favicon.ico" width="30" alt="Logo" />Oksana Openko</div> -->
-
-<--
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
--->
-
-<!-- [www.oksana-openko-sexolog.com.ua](https://www.oksana-openko-sexolog.com.ua/) -->
-
-  <img src="./public/readme/img-1.png" alt="Screenshot-1" >
+<img src="./public/readme/img-1.png" alt="Screenshot-1" >
 
 ## Visit site
 
-👉&nbsp;[Click here](https://tarik2454.github.io/website-Oksana-Openko-sexologist/)
+👉&nbsp;[Click here](https://www.oksana-openko-sexolog.com.ua/)
 
 ## Table of content
 
 - [About](#about)
-- [Technologies used](#technologies-used)
+- [Technologies](#technologies)
 - [Usage](#usage)
 - [Run it locally](#run-it-locally)
+- [My contacts](#my-contacts)
 
 ## About
 

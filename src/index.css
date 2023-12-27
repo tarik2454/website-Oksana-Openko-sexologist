@@ -4,7 +4,7 @@
 @import './stylesheet/vars.css';
 
 body {
-  font-family: 'ProximaNova-400',  sans-serif;
+  font-family: 'ProximaNova-400', sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 18px;
@@ -49,10 +49,11 @@ img {
   display: block;
 }
 
-.sl-wrapper .sl-counter, .sl-wrapper .sl-close,
+.sl-wrapper .sl-counter,
+.sl-wrapper .sl-close,
 .sl-wrapper .sl-navigation button.sl-prev,
 .sl-wrapper .sl-navigation button.sl-next {
-color: var(--bg-primery) !important;
+  color: var(--bg-primery) !important;
 }
 
 .sl-overlay {
