@@ -4,13 +4,12 @@
 
 ## Visit site
 
-👉&nbsp;[Click here](https://www.oksana-openko-sexolog.com.ua/)
+👉&nbsp;<a href="https://tarik2454.github.io/website-Oksana-Openko-sexologist/" target="_blank">Click here</a>
 
 ## Table of content
 
 - [About](#about)
-- [Technologies](#technologies)
-- [Usage](#usage)
+- [Technologies used](#technologies-used)
 - [Run it locally](#run-it-locally)
 - [My contacts](#my-contacts)
 
@@ -27,7 +26,7 @@ via messenger Telegram.
 I have implemented the form for sending data to the server, site header, mobile
 menu, navigation.
 
-## Technologies
+## Technologies used
 
 - HTML
 - CSS
