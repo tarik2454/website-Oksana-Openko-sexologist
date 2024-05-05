@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'https://oksana-openko-7dmj.onrender.com';
+const BASE_URL = 'https://server-oksana-openko.onrender.com/';
 
 export async function addContact(formData) {
   const options = {
