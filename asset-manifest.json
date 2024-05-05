@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/website-Oksana-Openko-sexologist/static/css/main.463c54af.css",
-    "main.js": "/website-Oksana-Openko-sexologist/static/js/main.602f4fa2.js",
+    "main.js": "/website-Oksana-Openko-sexologist/static/js/main.5d58556b.js",
     "static/css/957.3c2edce8.chunk.css": "/website-Oksana-Openko-sexologist/static/css/957.3c2edce8.chunk.css",
-    "static/js/957.cb57ea9d.chunk.js": "/website-Oksana-Openko-sexologist/static/js/957.cb57ea9d.chunk.js",
+    "static/js/957.8c8094e4.chunk.js": "/website-Oksana-Openko-sexologist/static/js/957.8c8094e4.chunk.js",
     "static/js/565.f8c863d9.chunk.js": "/website-Oksana-Openko-sexologist/static/js/565.f8c863d9.chunk.js",
     "static/css/946.c9e1cc57.chunk.css": "/website-Oksana-Openko-sexologist/static/css/946.c9e1cc57.chunk.css",
     "static/js/946.74cdaf5e.chunk.js": "/website-Oksana-Openko-sexologist/static/js/946.74cdaf5e.chunk.js",
@@ -144,9 +144,9 @@
     "static/media/consultation.webp": "/website-Oksana-Openko-sexologist/static/media/consultation.6f5bcb3488a51198a417.webp",
     "index.html": "/website-Oksana-Openko-sexologist/index.html",
     "main.463c54af.css.map": "/website-Oksana-Openko-sexologist/static/css/main.463c54af.css.map",
-    "main.602f4fa2.js.map": "/website-Oksana-Openko-sexologist/static/js/main.602f4fa2.js.map",
+    "main.5d58556b.js.map": "/website-Oksana-Openko-sexologist/static/js/main.5d58556b.js.map",
     "957.3c2edce8.chunk.css.map": "/website-Oksana-Openko-sexologist/static/css/957.3c2edce8.chunk.css.map",
-    "957.cb57ea9d.chunk.js.map": "/website-Oksana-Openko-sexologist/static/js/957.cb57ea9d.chunk.js.map",
+    "957.8c8094e4.chunk.js.map": "/website-Oksana-Openko-sexologist/static/js/957.8c8094e4.chunk.js.map",
     "565.f8c863d9.chunk.js.map": "/website-Oksana-Openko-sexologist/static/js/565.f8c863d9.chunk.js.map",
     "946.c9e1cc57.chunk.css.map": "/website-Oksana-Openko-sexologist/static/css/946.c9e1cc57.chunk.css.map",
     "946.74cdaf5e.chunk.js.map": "/website-Oksana-Openko-sexologist/static/js/946.74cdaf5e.chunk.js.map",
@@ -164,6 +164,6 @@
   },
   "entrypoints": [
     "static/css/main.463c54af.css",
-    "static/js/main.602f4fa2.js"
+    "static/js/main.5d58556b.js"
   ]
 }
